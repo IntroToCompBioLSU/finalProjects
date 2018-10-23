@@ -1,0 +1,9 @@
+(1) Simulate the history of a population on a landscape (birth, death, dispersal, etc.)
+(2) Simulate the spread of a disease in a population
+(3) Simulate the dynamics of HIV growth in a body
+(4) Simulate the change in allele frequencies in a population under various evolutionary forces (like drift and selection)
+(5) Write a program to assemble DNA sequences based on a set of short reads
+(6) Simulate the evolution of a DNA sequence over time
+(7) Read in a phylogenetic tree and write it out in a new format
+(8) Simulate predator-prey (or host-parasite) population dynamics
+(9) Simulate the flow of molecules through a metabolic pathway
